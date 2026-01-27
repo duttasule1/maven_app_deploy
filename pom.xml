@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>MyNewVyom</finalName>
+    <finalName>MyWebApp</finalName>
   </build>
 </project>
