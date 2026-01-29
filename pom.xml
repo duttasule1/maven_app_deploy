@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>MyWeb</finalName>
+    <finalName>MyWebAppNew</finalName>
   </build>
 </project>
