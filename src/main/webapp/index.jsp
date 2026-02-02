@@ -4,6 +4,6 @@
   <title>My Web App</title>
 </head>
 <body>
-  <h3> Sample Web Application built using <B> Maven on NodeB Feb 2026 </B> </h3>
+  <h3> Maven on NodeB Feb 2026 </h3>
 </body>
 </html>
