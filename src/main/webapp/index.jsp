@@ -8,6 +8,6 @@
   <h3> You are doing the right struggle.
 People who quit never see these errors you are seeing them 
 because you are actually practicing, not just watching videos. 
-Never Out of the Fight !! </h3>
+Never Out of the Fight !! MIND-IT </h3>
 </body>
 </html>
